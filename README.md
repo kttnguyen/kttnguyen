@@ -1,4 +1,4 @@
-## Hi there, I'm Kim Nguyen, a student at UCF studying Game Design.
+## Hi, I'm Kim Nguyen, a student at UCF studying Game Design.
 
 <!--
 **kttnguyen/kttnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
